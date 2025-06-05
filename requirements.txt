@@ -1,0 +1,12 @@
+langchain
+langchain-anthropic
+langchain-community
+langchain_google_genai
+langchain-huggingface
+langchain-ollama
+langchain-openai
+openai
+python-dotenv
+ipywidgets
+IPython
+ipykernel

@@ -10,3 +10,4 @@ python-dotenv
 ipywidgets
 IPython
 ipykernel
+streamlit

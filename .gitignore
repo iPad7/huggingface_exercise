@@ -1,3 +1,6 @@
+# Certain .py script files
+mysql_pw.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

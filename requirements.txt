@@ -1,10 +1,12 @@
 langchain
 langchain-anthropic
 langchain-community
+langchain-docling
 langchain_google_genai
 langchain-huggingface
 langchain-ollama
 langchain-openai
+langchain-unstructured
 openai
 python-dotenv
 ipywidgets
@@ -12,3 +14,12 @@ IPython
 ipykernel
 streamlit
 pymysql
+pypdf
+pymupdf
+pdfplumber
+bs4
+arxiv
+fitz
+python-magic-bin
+unstructured
+unstructured[pdf]

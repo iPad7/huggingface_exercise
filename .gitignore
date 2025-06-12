@@ -1,6 +1,9 @@
 # Certain .py script files
 mysql_pw.py
 
+# Certain Directory
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

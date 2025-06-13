@@ -14,12 +14,14 @@ IPython
 ipykernel
 streamlit
 pymysql
+transformers
+tictoken
 pypdf
 pymupdf
 pdfplumber
 bs4
 arxiv
-fitz
+frontend
 python-magic-bin
 unstructured
 unstructured[pdf]
